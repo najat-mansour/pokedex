@@ -32,7 +32,7 @@ ___
 ___ 
 
 ### How to run it? 
-```bash 
+```shell 
 git clone https://github.com/najat-mansour/pokedex.git
 cd pokedex 
 npm install
