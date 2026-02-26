@@ -1,5 +1,5 @@
 import { createInterface, type Interface } from "readline";
-import { PokeAPI, Pokemon } from "./pokeapi.js";
+import { PokeAPI, Pokemon } from "./api/pokeapi.js";
 import { commandExit } from "./commands/command_exit.js";
 import { commandHelp } from "./commands/command_help.js";
 import { commandMap } from "./commands/command_map.js";
