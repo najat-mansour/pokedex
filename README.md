@@ -6,11 +6,11 @@ It comes after three previous courses:
 * [Learn Git](https://www.boot.dev/courses/learn-git)
 * [Learn TypeScript](https://www.boot.dev/courses/learn-typescript)
 * [Learn HTTP Clients in TypeScript](https://www.boot.dev/courses/learn-http-clients-typescript)
---- 
+___ 
 
 ### What is Pokedex? 
 A Pokedex is a CLI application that keeps track of the Pokémon a player has seen or caught, including their names, locations, types, stats, and helps players build and organize their collection. All data are fetched from [PokeAPI](https://pokeapi.co/) external API. 
----
+___
 
 ### Project Main Technology(ies)
 ##### Main Language 
@@ -18,7 +18,7 @@ A Pokedex is a CLI application that keeps track of the Pokémon a player has see
 ##### Node Modules 
 * `readline`: Reading data from a readable stream. 
 * `vitest`: Performing Unit-Testing. 
----
+___
 
 ### Project Architecture
 * `dist`: The compiled `JavaScript` code. 
@@ -29,7 +29,7 @@ A Pokedex is a CLI application that keeps track of the Pokémon a player has see
     * `state.ts`: Contains the state of the project. 
     * `repl.ts`: Handles the REPL process. 
     * `main.ts`: The entry-point of the project. 
----
+___ 
 
 ### How to run it? 
 ```shell
@@ -39,7 +39,7 @@ npm install
 npm start
 ```
 You must have `Node.js` installed in your machine. 
----
+___
 
 ### Author
 &copy; Najat Mansour - Feb. 2026
